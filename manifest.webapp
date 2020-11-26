@@ -1,6 +1,6 @@
 {
   "appType": "APP",
-  "short_name": "dashboard-app",
+  "short_name": "dashboards-app",
   "name": "Dashboard",
   "description": "DHIS2 Dashboards app",
   "version": "31.0.1",
@@ -15,7 +15,7 @@
   "icons": {
     "48": "dhis2-app-icon.png"
   },
-  "manifest_generated_at": "Wed Nov 25 2020 00:42:50 GMT+0000 (Coordinated Universal Time)",
+  "manifest_generated_at": "Thu Nov 26 2020 14:09:38 GMT+0000 (Coordinated Universal Time)",
   "display": "standalone",
   "theme_color": "#ffffff",
   "background_color": "#ffffff",
